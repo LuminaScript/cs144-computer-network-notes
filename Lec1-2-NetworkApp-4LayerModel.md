@@ -106,7 +106,7 @@ Each Layer provide a service to the service below
 - **Extensibility:** Allows for adding new fields in the datagram header.
 
 ### IPv4 Datagram 
-![image](https://hackmd.io/_uploads/rJ7CZ2lNJg.png)
+![image]([https://hackmd.io/_uploads/rJ7CZ2lNJg.png](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_7c5c2db4ca42f66745eb20caf57fa95c.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1737394267&Signature=z9Wcq0clMWYqoGPAwVC02LNnmmc%3D))
 * **Version (4 bits):** Indicates IP version (IPv4 or IPv6).
 * **Header Length (4 bits):** Specifies the length of the header in 32-bit words.
 * **Type of Service (8 bits):** Provides routing hints about packet priority.

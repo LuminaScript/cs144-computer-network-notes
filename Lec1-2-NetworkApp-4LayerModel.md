@@ -81,7 +81,7 @@ Each Layer provide a service to the service below
 
 
 ## III. The IP Service
-![image](https://hackmd.io/_uploads/r1DFpjlV1l.png)
+![image](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_c318a9256d978ef920ffd176f9dbba22.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1737394069&Signature=Yd8%2BFBW%2Fn64JAjDLaQzLEGsuFQk%3D)
 
 ### IP Service Characteristics
 - **Datagram:** Individually routed packets with hop-by-hop routing (source and destination info in each packet); routers use forwarding tables.
